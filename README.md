@@ -1,4 +1,4 @@
-# Installation of Micropython for esp-c3-32s
+# Installation of Micropython for esp-c3-32s :raccoon:
 ![ESP Board](/assets/esp32_board.png?raw=true)
 
 **How to install Micropython on an ESP-C3-32S Board from AI-thinker**
